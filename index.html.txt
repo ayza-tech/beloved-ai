@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ai pages</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>oh my dearest welcome to the princess page which is full of elegance and cuteness.</h1>
+    <p>on this page you don't meet many things. this is my first website that i made myself with a lot of diligence and a little touch of beauty.</p>
+    <button onclick="alert('banyak uang mode ON! 💰🔥')">click here cintaku!</button>
+</body>
+</html>
